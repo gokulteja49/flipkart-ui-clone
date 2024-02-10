@@ -1,2 +1,2 @@
 # flipkart-ui-clone
-A basic ui clone of flipkart
+A Clone of flipkart  homepage-user interface by using HTML and CSS
